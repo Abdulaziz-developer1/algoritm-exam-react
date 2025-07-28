@@ -1,0 +1,9 @@
+.cards3{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.cards3 .card3{
+    width: 45%;
+}

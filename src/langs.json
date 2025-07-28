@@ -1,0 +1,268 @@
+[
+  {
+    "header": {
+      "li1": {
+        "en": "Home",
+        "uz": "Bosh sahifa"
+      },
+      "li2": {
+        "en": "Courses",
+        "uz": "kurslar"
+      },
+      "li3": {
+        "en": "Events",
+        "uz": "Eventlar"
+      },
+      "li4": {
+        "en": "About",
+        "uz": "Biz haqimizda"
+      },
+      "li5": {
+        "en": "News",
+        "uz": "Yangiliklar"
+      },
+      "li6": {
+        "en": "Certifications",
+        "uz": "Sertifikatlar"
+      },
+      "li7": {
+        "en": "Contact center",
+        "uz": "Aloqa markazi"
+      }
+    },
+    "hero": {
+      "mt": {
+        "en": "Student surpassed his teacher",
+        "uz": "Ustozidan o'zib ketgan shogird"
+      },
+      "st": {
+        "en": "My name is Bekzod, I'm 13 years old. I'm interested in programming and currently work with Node.js (Express), PostgreSQL, and React PWA. I mainly focus on security systems like authentication and authorization (JWT, access token, refresh token). I always strive to learn new technologies and try to improve my projects.",
+        "uz": "Men Bekzod, 13 yoshdaman. Dasturlashga qiziqaman va hozirda Node.js (Express), PostgreSQL, va React PWA bilan ishlayman. Asosan authentication va authorization (JWT, access token, refresh token) kabi xavfsizlik tizimlari ustida ishlayman.Doim yangi texnologiyalarni o‘rganishga intilaman va loyihalarimni takomillashtirishga harakat qilaman."
+      }
+    },
+    "results": {
+      "h": {
+        "en": "Algorithm's results in numbers",
+        "uz": "Algoritm natijasi raqamlarda"
+      },
+      "stat1": {
+        "en": "Number of students graduated",
+        "uz": "Shu kungacha bitirgan o‘quvchilar"
+      },
+      "stat2": {
+        "en": "Number of students employed",
+        "uz": "Shu kungacha o‘quvchilarning ishga joylashishi"
+      },
+      "phrase": {
+        "en": "Graduates with 6 months of experience usually earn an average salary of this much",
+        "uz": "6 oy tajribaga ega bitiruvchilar odatda o‘rtacha shuncha maosh oladi."
+      },
+      "events": [
+        { "en": "Per month Hackathon’s", "uz": "Har oylik hackathon" },
+        {
+          "en": "register for the hackathon!",
+          "uz": "Hackatonga ro‘yxatdan o‘ting!"
+        },
+        { "en": "Discounts", "uz": "Chegirmalar" }
+      ]
+    },
+    "consultation": {
+      "title": {
+        "en": "free consultation",
+        "uz": "Bepul konsultatsiya"
+      },
+      "d": {
+        "en": "Telefon raqamingizni yozib qoldiring, biz sizga qo‘ngiroq qilamiz va birorta ham savolingiz javobsiz qolmasligiga harakat qilamiz",
+        "uz": "Telefon raqamingizni yozib qoldiring, biz sizga qo‘ngiroq qilamiz va birorta ham savolingiz javobsiz qolmasligiga harakat qilamiz"
+      },
+      "name": {
+        "en": "Your name",
+        "uz": "Ismingiz"
+      },
+      "job": {
+        "en": "Which job do you want?",
+        "uz": "Siz qaysi kasbni egallamoqchisiz?"
+      },
+      "send": {
+        "en": "Submit",
+        "uz": "Yuborish"
+      },
+      "tick": {
+        "en": "I agree that the info i submit can be reused",
+        "uz": "Shaxsiy ma'lumotlarni qayta ishlanishiga roziman"
+      },
+      "job1": {
+        "en": "Developing",
+        "uz": "dasturlash"
+      },
+      "job2": {
+        "en": "Designing",
+        "uz": "Dizaynlash"
+      }
+    },
+    "courses": {
+      "title": {
+        "en": "Courses",
+        "uz": "Kurslar"
+      },
+      "time1": {
+        "en": "Standart - 2 hour lesson thrice a week",
+        "uz": "Standart - Haftada 3 kun 2 soat dars"
+      },
+      "time2": {
+        "en": "Bootcamp, 3-4 hours for 5 days a week",
+        "uz": "Bootcamp - Haftada 5 kun 3-4 soat dars"
+      },
+      "lengtht": {
+        "en": "time - 8 months",
+        "uz": "Davomiyligi - 8 oy"
+      },
+      "word1": {
+        "en": "Developing",
+        "uz": "dasturlash"
+      },
+      "word2": {
+        "en": "Learn",
+        "uz": "O'rganish"
+      }
+    },
+    "reasons": {
+      "h": {
+        "en": "Why study in Algorithm?",
+        "uz": "Nima uchun Algoritmda o‘qish kerak?"
+      },
+      "title": {
+        "en": "Consistent events",
+        "uz": "Doimiy musobaqalar"
+      },
+      "p": {
+        "en": "Hackathon for developing, designning",
+        "uz": "Dasturlash, dizayn sohalari bo‘yicha haftalik sovrinli musobaqalar."
+      }
+    },
+    "reviews": {
+      "title": {
+        "en": "Opinions of students",
+        "uz": "O'quvchilarni fikrlari"
+      },
+      "oc": {
+        "en": "Frontend student",
+        "uz": "Frontend o‘quvchisi"
+      }
+    },
+    "reviews2": {
+      "title": {
+        "en": "Opinions of students",
+        "uz": "O'quvchilarni fikrlari"
+      },
+      "review": {
+        "en": "I’m really happy with my studies at the Algoritm Learning Center! The lessons are clear and high-quality, taught in a way that’s easy to understand. The instructors are experienced and give personalized attention to every student. I also love the opportunity to work on practical exercises and real-world projects.The environment here is friendly and motivating, which makes learning even more exciting. If you want to gain deep knowledge in IT and programming, I think Algoritm is one of the best choices! 😊",
+        "uz": "Men Algoritm o‘quv markazida ta’lim olayotganimdan juda mamnunman. Bu yerda darslar juda tushunarli va sifatli tarzda o‘tiladi. O‘qituvchilar tajribali va har bir o‘quvchiga alohida e’tibor berishadi. Shuningdek, amaliy mashg‘ulotlar va real loyihalar ustida ishlash imkoniyati borligi menga juda yoqadi.Markazdagi muhit do‘stona va motivatsion, bu esa o‘rganish jarayonini yanada qiziqarli qiladi. Agar IT va dasturlash bo‘yicha chuqur bilim olishni istasangiz, Algoritm o‘quv markazi eng yaxshi tanlovlardan biri deb o‘ylayman! 😊"
+      },
+      "oc": {
+        "en": "Frontend student",
+        "uz": "Frontend o‘quvchisi"
+      }
+    },
+    "register": {
+      "title": {
+        "en": "Register for the recent courses",
+        "uz": "Yaqin orada ochiladigan kurslarimizga yoziling"
+      },
+      "d": {
+        "en": "An introductory lesson is held before each course begins. During this lesson, you will receive all the information about the course, meet the teacher, and register for the course.",
+        "uz": "Har bir kurs boshlanishdan oldin tanishtiruv dars bo‘lib o‘tadi. Unda siz kurs bo‘yicha barcha ma‘lumotlarga ega bo‘lasiz, o‘qituvchi bilan tanishib olasiz va kursga yozilishingiz mumkin."
+      },
+      "job": {
+        "en": "Which job do you want?",
+        "uz": "Siz qaysi kasb egallamoqchisiz?"
+      },
+      "date": {
+        "en": "Choose a date to start your course",
+        "uz": "Guruh boshlanadigan sana tanlash"
+      },
+      "time": {
+        "en": "Choose time to start your course",
+        "uz": "Guruh boshlanadigan vaqt tanlash"
+      },
+      "registration": {
+        "en": "To register fill in the form",
+        "uz": "Ro‘yxatdan o‘tish uchun formani to‘ldiring"
+      },
+      "name": {
+        "en": "Your name",
+        "uz": "Ismingiz"
+      },
+      "send": {
+        "en": "Submit",
+        "uz": "Yuborish"
+      },
+      "tick": {
+        "en": "I agree that the info i submit can be reused",
+        "uz": "Shaxsiy ma'lumotlarni qayta ishlanishiga roziman"
+      }
+    },
+    "questions": {
+      "title": {
+        "en": "Frequently given questions",
+        "uz": "Ko‘p Beriladigan Savollar!"
+      },
+      "q": {
+        "en": "Are courses free?",
+        "uz": "Kurslar bepulmi?"
+      },
+      "a": {
+        "en": "No, all courses are currently paid. You can see the prices on each course page.",
+        "uz": "Yo’q, hozir barcha kurslar pullik. Narxlarni har bir kursning sahifasida ko’rishingiz mumkin."
+      }
+    },
+    "location": {
+      "title": {
+        "en": "Our branches",
+        "uz": "Bizning manzillar"
+      },
+      "place": {
+        "en": "Namangan city, DXA 2-floor",
+        "uz": "Namangan shahar,DXA 2-qavat"
+      },
+      "time": {
+        "en": "Work hours",
+        "uz": "Ish vaqti"
+      },
+      "contact": {
+        "en": "For contact",
+        "uz": "Aloqa uchun"
+      }
+    },
+    "footer": {
+      "li1": {
+        "en": "Home",
+        "uz": "Bosh sahifa"
+      },
+      "li2": {
+        "en": "Courses",
+        "uz": "kurslar"
+      },
+      "li3": {
+        "en": "Events",
+        "uz": "Eventlar"
+      },
+      "li4": {
+        "en": "About",
+        "uz": "Biz haqimizda"
+      },
+      "li5": {
+        "en": "News",
+        "uz": "Yangiliklar"
+      },
+      "li6": {
+        "en": "Certifications",
+        "uz": "Sertifikatlar"
+      },
+      "li7": {
+        "en": "Contact center",
+        "uz": "Aloqa markazi"
+      }
+    }
+  }
+]

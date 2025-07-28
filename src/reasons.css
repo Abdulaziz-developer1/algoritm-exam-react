@@ -1,0 +1,49 @@
+.icon {
+  width: 50px !important;
+  height: 50px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+}
+
+.card {
+  width: 45%;
+  display: flex;
+  border-radius: 10px;
+  min-height: 130px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.card img {
+  width: 40%;
+}
+
+.card .col {
+  text-align: left !important;
+  padding: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.card .col * {
+  margin: 0;
+  max-width: 80%;
+}
+
+.card h3{
+    font-size: 1.6em;
+    max-width: none !important;
+}

@@ -1,0 +1,36 @@
+.cards2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.card2{
+    width: 30%;
+    border-radius: 10px;
+}
+
+.card2 .flex2{
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: left;
+}
+
+.card2 h3{
+    font-size: 2.5em;
+}
+
+.flex2 img{
+    height: 70px;
+}
+
+.flex2 *{
+    margin: 0;
+}
+
+.left .card2{
+    text-align: left;
+}
+
+.left .flex2{
+    justify-content: start;
+}

@@ -1,0 +1,26 @@
+.between ul{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 450px;
+}
+
+footer{
+    width: 100vw;
+    margin: -65px;
+    margin-top: 50px;
+}
+
+.between ul li{
+    height: 30px;
+}
+
+.media{
+    width: 300px;
+    margin-right: 60px;
+    margin-top: -110px;
+}
+
+.phone{
+    font-size: 2em;
+    margin-top: -145px;
+}

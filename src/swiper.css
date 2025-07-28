@@ -1,0 +1,90 @@
+#root {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: left;
+  font-size: 18px;
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 25px;
+  height: 77vh !important;
+}
+
+.swiper-slide img {
+  width: auto;
+  object-fit: cover;
+}
+
+.txt {
+  width: 35%;
+}
+
+.swiper-pagination {
+  width: 50% !important;
+  left: 50% !important;
+  transform: translateX(-90%) !important;
+  display: flex;
+  gap: 12px; 
+}
+
+.custom-bullet {
+  width: 40px;
+  height: 4px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+  flex-shrink: 0;
+  transition: all 0.3s ease;
+}
+
+.custom-bullet-active {
+  background: #484848;
+  width: 50px;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  display: none !important;
+}
+
+.mySwiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.txt {
+  max-width: 50%;
+}
+
+.swiper-slide img {
+  max-width: 45%;
+  height: auto;
+  border-radius: 8px;
+}
