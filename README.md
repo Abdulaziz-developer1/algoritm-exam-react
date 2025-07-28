@@ -42,9 +42,9 @@ Follow these steps to run the project locally:
 ### Running the App
 
 ```bash
-npm start
+npm run dev
 # or
-yarn start
+yarn run dev
 ```
 
 The app will be available at [http://localhost:3000](http://localhost:3000).
@@ -61,12 +61,9 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 
 ```
 algoritm-exam-react/
-├── public/
 ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── styles/
-│   ├── App.js
+│   ├── App.jsx
+│   ├── Main.jsx
 │   └── ...
 ├── package.json
 └── README.md
