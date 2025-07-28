@@ -1,12 +1,83 @@
-# React + Vite
+# Algoritm Exam React Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a website for **Algoritm** built using React, designed to provide an interactive platform for algorithm exam practice or learning. The site features a modern UI with support for both **dark/light modes** and **Uzbek/English language** switching.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dark/Light Mode:**  
+  Easily toggle between dark and light themes for comfortable viewing in any environment.
 
-## Expanding the ESLint configuration
+- **Language Switching:**  
+  Instantly switch between Uzbek (UZB) and English (ENG) for a wider audience and better accessibility.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive Design:**  
+  The website is fully responsive and works well on desktops, tablets, and mobile devices.
+
+## Getting Started
+
+Follow these steps to run the project locally:
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or newer recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Abdulaziz-developer1/algoritm-exam-react.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd algoritm-exam-react
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+### Running the App
+
+```bash
+npm run dev
+# or
+yarn run dev
+```
+
+The app will be available at [http://localhost:3000](http://localhost:3000).
+
+## Usage
+
+- **Switch Theme:**  
+  Use the theme toggle button (usually found in the header or settings menu) to switch between dark and light modes.
+
+- **Change Language:**  
+  Use the language selector to toggle between Uzbek and English. All main interface elements and content will update accordingly.
+
+## Project Structure
+
+```
+algoritm-exam-react/
+├── src/
+│   ├── App.jsx
+│   ├── Main.jsx
+│   └── ...
+├── package.json
+└── README.md
+```
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/Abdulaziz-developer1/algoritm-exam-react/issues).
+
+## License
+
+This project is open source. See the [LICENSE](LICENSE) file for details.
+
+---
+
+**Algoritm Exam React** – Learn, practice, and master algorithms in your preferred theme and language!
